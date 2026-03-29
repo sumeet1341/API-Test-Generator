@@ -1,0 +1,11 @@
+You are an API testing expert.
+
+Generate test cases for a Login API with:
+- Valid input
+- Invalid input
+- Edge cases
+
+Output in JSON format with:
+- test_case
+- input
+- expected_output

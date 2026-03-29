@@ -1,0 +1,12 @@
+[
+  {
+    "test_case": "Valid login",
+    "input": {"username": "user", "password": "1234"},
+    "expected_output": "Login successful"
+  },
+  {
+    "test_case": "Invalid password",
+    "input": {"username": "user", "password": "wrong"},
+    "expected_output": "Error message"
+  }
+]
